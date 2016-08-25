@@ -65,3 +65,12 @@ table td {
 	border-style: solid;
 	border-color: black;
 }
+
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    margin-top: -20px;
+    text-align: center;
+}
